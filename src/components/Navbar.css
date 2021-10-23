@@ -1,0 +1,10 @@
+li{
+    font-family: monospace;
+    font-size: 22px;
+    color: black;
+    font-weight: bolder;
+
+}
+link:hover{
+    color: aliceblue;
+}

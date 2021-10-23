@@ -4,6 +4,7 @@ display: flex;
 margin-top: 14px;
 background-color:aliceblue;
 border: solid 2px black;
+margin: 10px 20px 10px 20px;
 }
 #b1{
     background-color: wheat;
