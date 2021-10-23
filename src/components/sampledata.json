@@ -1,0 +1,254 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "The Associated Press",
+            "title": "Pfizer says Covid vaccine more than 90% effective in kids - CNBC",
+            "description": "The shots could begin early next month — with the first children in line fully protected by Christmas — if regulators give the go-ahead.",
+            "url": "https://www.cnbc.com/2021/10/22/pfizer-says-covid-vaccine-more-than-90percent-effective-in-kids-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106883403-1621352770071-106883403-1621013407660Unknown-1-jpg.jpg?v=1621352794",
+            "publishedAt": "2021-10-22T12:06:11Z",
+            "content": "Kid-size doses of Pfizer's Covid-19 vaccine appear safe and nearly 91% effective at preventing symptomatic infections in 5- to 11-year-olds, according to study details released Friday as the U.S. con… [+3214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Friday - CNBC",
+            "description": "U.S. stock futures were mixed Friday, a day after the S&P 500 closed at a record and extended its run of winning sessions to seven.",
+            "url": "https://www.cnbc.com/2021/10/22/5-things-to-know-before-the-stock-market-opens-friday-oct-22.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106963321-16347486692021-10-20t154253z_1311670510_rc2pdq97tqwv_rtrmadp_0_usa-stocks.jpeg?v=1634748717",
+            "publishedAt": "2021-10-22T11:53:33Z",
+            "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Stock futures mixed after S&amp;P 500's record close\r\nTraders work on the floor of the New Yo… [+4036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Alec Baldwin fatally shoots woman with prop gun on movie set - BBC News - BBC News",
+            "description": "A woman has died and a man has been injured after actor Alec Baldwin fired a prop gun on a New Mexico film set for the 19th Century western Rust.Halyna Hutch...",
+            "url": "https://www.youtube.com/watch?v=Ug8j3k06mX0",
+            "urlToImage": "https://i.ytimg.com/vi/Ug8j3k06mX0/maxresdefault.jpg",
+            "publishedAt": "2021-10-22T11:48:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesRadar+"
+            },
+            "author": "Ali Jones",
+            "title": "GTA Trilogy release date confirmed via the Rockstar Store - Gamesradar",
+            "description": "All three games will arrive digitally next month",
+            "url": "https://www.gamesradar.com/gta-trilogy-release-date/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yjXntQop56i26PHDBLPftM-1200-80.jpg",
+            "publishedAt": "2021-10-22T11:38:10Z",
+            "content": "The GTA: The Trilogy release date has been confirmed via Rockstar's store page.\r\nThe store page for the remastered trilogy - which features updated versions of GTA 3, GTA: Vice City, and GTA: San And… [+1427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Tanya Chen",
+            "title": "Young People, Especially Young Women, Are Reporting Concerning Medical And Behavioral Changes Due To Social Media, And I Hope We’re Paying Attention - BuzzFeed News",
+            "description": "In one-part of this week's newsletter: Why people are already dismissing a Wall S",
+            "url": "https://www.buzzfeednews.com/article/tanyachen/young-women-reporting-concerning-behavioral-changes-from",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-10/21/23/enhanced/4c28a3d174c5/original-410-1634857494-2.jpg?crop=1243:651;0,73",
+            "publishedAt": "2021-10-22T11:01:00Z",
+            "content": "This is an excerpt from Please Like Me, BuzzFeed News newsletter about how influencers are battling for your attention.You can sign up here.\r\nI was really struck this week by this article from the Wa… [+5675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sabrina Tavernise, Daniel Guillemette, Asthaa Chaturvedi, Jessica Cheung, Rachelle Bonja, Mike Benoist, Dan Powell, Marion Lozano, Elisheba Ittoop, Chris Wood",
+            "title": "Qaddafi's Son Is Alive, and He Wants to Take Back Libya - The New York Times",
+            "description": "In the decade since Libya’s dictator Muammar el-Qaddafi was overthrown, the country has devolved into chaos. Now, his son is plotting a political comeback.",
+            "url": "https://www.nytimes.com/2021/10/22/podcasts/the-daily/seif-qaddafi-libya-civil-war.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/06/14/world/22daily-1/14Libya-Seif-facebookJumbo.jpg",
+            "publishedAt": "2021-10-22T10:36:40Z",
+            "content": "Robert F. Worth contributed reporting.\r\nThe Daily is made by Lisa Tobin, Rachel Quester, Lynsea Garrison, Annie Brown, Clare Toeniskoetter, Paige Cowett, Michael Simon Johnson, Brad Fisher, Larissa A… [+734 chars]"
+        },
+
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Meeting Bennett, Putin says he aims to continue warm ties forged under Netanyahu - The Times of Israel",
+            "description": "During PM's brief visit to Sochi, leaders expected to discuss military operations in Syria and thwarting Iran's nuclear weapons program",
+            "url": "https://www.timesofisrael.com/meeting-bennett-putin-says-he-aims-to-continue-warm-ties-forged-under-netanyahu/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2021/10/KBG_GPO462-1024x640.jpg",
+            "publishedAt": "2021-10-22T10:12:41Z",
+            "content": "Prime Minister Naftali Bennett and Russian President Vladimir Putin met in Sochi on Friday morning for their first face-to-face talks since Bennett took office earlier this year.\r\nPutin told Bennett … [+5209 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeff Stein, Rachel Roubein, Marianna Sotomayor",
+            "title": "White House shrinks economic package from climate to housing - The Washington Post",
+            "description": "Democrats have started signaling which parts of the White House agenda could be cut and which are likely to be approved.",
+            "url": "https://www.washingtonpost.com/us-policy/2021/10/22/white-house-democrats-economic-package/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJHLYIRCMMI6ZKGZBAT2FJFZCU.jpg&w=1440",
+            "publishedAt": "2021-10-22T10:06:16Z",
+            "content": "The bill is also likely to retain significantly smaller versions of a wide range of Bidens proposals, such as initial plans to provide roughly $300 billion for housing and homelessness, $400 billion … [+14811 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "Hackers broke into Donald Trump's upcoming social media site, creating fake accounts for Trump and Steve Bannon and posting a photo of a defecating pig - Yahoo News",
+            "description": "Hackers from Anonymous created fake accounts for Trump and Steve Bannon on Truth Social, the site that Trump announced Wednesday, per the NYT.",
+            "url": "https://www.businessinsider.com/donald-trump-truth-social-media-anonymous-hackers-fake-accounts-bannon-2021-10",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2BF6WBzUkeiyLzE4l2vMUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/TT7CRxMADNhFj1pkGMEMAg--~B/aD0xMDcwO3c9MTQyNzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/56933461ed30502cb77b05710e35b76d",
+            "publishedAt": "2021-10-22T10:00:39Z",
+            "content": "Former President Donald Trump. Getty\r\n<ul><li>Hackers from Anonymous told The NYT they had created fake accounts on Trump's Truth Social site.\r\n</li><li>On a fake Trump account, they posted a photo o… [+2287 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse, CNN",
+            "title": "D'Ernest Johnson: Three years ago, he was working on a fishing boat. Now, Cleveland Browns running back is a match-winning NFL player - CNN",
+            "description": "In 2018, D'Ernest Johnson wasn't signed by any NFL team after failing to be drafted.",
+            "url": "https://www.cnn.com/2021/10/22/sport/dernest-johnson-cleveland-browns-denver-broncos-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211022044828-02-dernest-johnson-10-21-2021-super-tease.jpg",
+            "publishedAt": "2021-10-22T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Barbara Kollmeyer",
+            "title": "Facebook and other internet stocks under pressure after Snap gloom - MarketWatch",
+            "description": "Internet stocks were under pressure in premarket trading on Friday, dragged lower by Snap undefined, after the owner of social media app Snapchat said...",
+            "url": "https://www.marketwatch.com/story/facebook-and-other-internet-stocks-under-pressure-after-snap-gloom-2021-10-22",
+            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+            "publishedAt": "2021-10-22T09:50:00Z",
+            "content": "Internet stocks were under pressure in premarket trading on Friday, dragged lower by Snap \r\n SNAP,\r\n -0.71%\r\n,\r\n after the owner of social media app Snapchat said privacy changes imposed by Apple wer… [+445 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "Duran Duran drop their 15th album, four decades after making their debut - CNN",
+            "description": "When British pop band Duran Duran made their debut, they did not know how long they would last. But 40 years on, the new wave group are still going strong, releasing their 15th studio album, \"Future Past\", on Friday.",
+            "url": "https://www.cnn.com/2021/10/22/entertainment/duran-duran-future-past-album-scli-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019103621-duran-duran-global-citizen-2021-super-tease.jpg",
+            "publishedAt": "2021-10-22T09:24:00Z",
+            "content": "LondonWhen British pop band Duran Duran made their debut, they did not know how long they would last. But 40 years on, the new wave group are still going strong, releasing their 15th studio album, \"F… [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "They refused to pay rent and stole the fridge. Landlords deal with pandemic squatters - NPR",
+            "description": "Some landlords got hurt by squatters who took advantage of eviction bans during the pandemic. Now they can't get any help from a massive $47 billion federal rental assistance program.",
+            "url": "https://www.npr.org/2021/10/22/1046154251/they-refused-to-pay-rent-and-stole-the-fridge-landlords-deal-with-pandemic-squat",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/15/ruiz_03_wide-33070151a1791eeb97c8e434c138991492bdf4fd.jpg?s=1400",
+            "publishedAt": "2021-10-22T09:08:00Z",
+            "content": "Nitin Bajaj and Nimisha Lotia stand with their kids inside the empty and damaged apartment unit where two tenants stayed without paying rent in Los Angeles, Calif., on Saturday, October 2, 2021.\r\nJes… [+6576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Adam Satariano, Paul Mozur",
+            "title": "Russia Strengthens Its Internet Censorship Powers - The New York Times",
+            "description": "Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation.",
+            "url": "https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/13/arts/00russia-internet1/merlin_182928528_dd289842-23ae-461e-9f8f-e826566173cc-facebookJumbo.jpg",
+            "publishedAt": "2021-10-22T09:01:40Z",
+            "content": "The cutoffs threaten to upend Russias thriving digital life. While the political system has clung to Mr. Putins cult of personality and television broadcasters and newspapers face tight restrictions,… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Deepa Shivaram",
+            "title": "Hundreds of kids and their families are riding a bicycle bus to school in Barcelona - NPR",
+            "description": "The bicibus, or bike bus, started with five families and has grown to an event that happens every Friday. It's an effort to promote bike safety and encourage environmentally friendly transportation.",
+            "url": "https://www.npr.org/2021/10/22/1047341052/barcelona-bicibus-kids-parents-bike-ride-to-school",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/21/bicibus-2_wide-4d2f80370b689de6cc0949eb80ca54488fbdce5a.jpg?s=1400",
+            "publishedAt": "2021-10-22T09:00:50Z",
+            "content": "Children joining the bicibus in the Eixample district of Barcelona make their way to school on a recent Friday morning. The community is hoping to build a school-friendly bike lane for a safer commut… [+4114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Andrew E. Kramer",
+            "title": "How Russia Is Cashing In on Climate Change - The New York Times",
+            "description": "Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity.",
+            "url": "https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/22/world/22russia-arctic01/merlin_196227000_9f9230c9-94d0-455d-ba72-04f5f0915429-facebookJumbo.jpg",
+            "publishedAt": "2021-10-22T09:00:30Z",
+            "content": "Across the Russian Arctic, a consortium of companies supported by the government is midway through a plan to invest 735 billion rubles, or about $10 billion, over five years developing the Northeast … [+940 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "China vows no concessions on Taiwan after Biden comments - Associated Press",
+            "description": "BEIJING (AP) — China on Friday said there is “no room” for compromise or concessions over the issue of Taiwan, following a comment by U.S. President Joe Biden that the U.S. is committed to defending the island if it is attacked.",
+            "url": "https://apnews.com/article/joe-biden-china-beijing-taiwan-f4fdeb6e15097d55f5d4c06b5f8c9c29",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/03f9bc346daf491380e17faae7980530/3000.jpeg",
+            "publishedAt": "2021-10-22T08:51:16Z",
+            "content": "BEIJING (AP) China on Friday said there is no room for compromise or concessions over the issue of Taiwan, following a comment by U.S. President Joe Biden that the U.S. is committed to defending the … [+4084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Jamie Lynn Spears Says Parents Pushed Abortion, Warned Giving Birth Would Ruin Career - TMZ",
+            "description": "Jamie Lynn Spears says she went through hell when pregnant at 16, and her parents and team were a driving force behind her misery ... pushing adoption, abortion and going to great lengths to hide her from the public.",
+            "url": "https://www.tmz.com/2021/10/22/jamie-lynn-spears-book-parents-pushed-abortion-adoption-career-baby-pregnant/",
+            "urlToImage": "https://imagez.tmz.com/image/75/16by9/2021/10/21/75514035aebb4a5f8eb27e9bdb1aed50_xl.jpg",
+            "publishedAt": "2021-10-22T08:00:00Z",
+            "content": "Jamie Lynn Spears says she went through hell when pregnant at 16, and her parents and team were a driving force behind her misery ... pushing adoption, abortion and going to great lengths to hide her… [+1967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Alden Gonzalez",
+            "title": "Chris Taylor keeps Los Angeles Dodgers alive with three homers in Game 5 win - ESPN",
+            "description": "Chris Taylor became the first player in postseason history to homer three times while his team faced elimination, providing a much-needed jolt as the Dodgers beat the Braves 11-2 in Game 5 of the NLCS.",
+            "url": "https://www.espn.com/mlb/story/_/id/32450103/chris-taylor-keeps-los-angeles-dodgers-alive-three-homers-game-5-win",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1022%2Fr926633_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-10-22T07:50:50Z",
+            "content": "LOS ANGELES -- Cody Bellinger had goosebumps. It was the eighth inning of a game his Los Angeles Dodgers already led by nine runs, but Chris Taylor was up to bat, sitting on three home runs, and Bell… [+4225 chars]"
+        }
+    ]
+}

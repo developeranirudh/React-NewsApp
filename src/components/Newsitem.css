@@ -1,0 +1,11 @@
+.card{
+display: flex;
+/* height: 500px; */
+margin-top: 14px;
+background-color:aliceblue;
+border: solid 2px black;
+}
+#b1{
+    background-color: wheat;
+
+}
