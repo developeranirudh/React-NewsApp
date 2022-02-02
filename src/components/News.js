@@ -39,7 +39,7 @@ setload(false);
  const pageNextHandler=async()=>
  {  
   setload(true);
-    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${"3bac4428378d4e32af0a4501fc4fb812"}&page=${page}&PageSize=10`);
+    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey="3bac4428378d4e32af0a4501fc4fb812"&page=${page}&PageSize=10`);
     const res= await newsdata.json()
   Setnewsdata(res.articles);
   Setpage((page)+1);
@@ -52,7 +52,7 @@ setload(false);
          let a=110;        
          return( 
              <Newsitem  key={a*Math.random()} imgurl={element.urlToImage?element.urlToImage:"https://cdn.pixabay.com/photo/2017/06/26/19/32/news-2444888_960_720.jpg"}title= {element.title?element.title.slice(0,44):""} description={element.description?element.description.slice(0,65):""}  urlnews={element.url}></Newsitem>
-            );
+          );
     });
     // console.log(page,sizes);//
     // console.log(newsitem);
