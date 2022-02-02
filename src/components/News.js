@@ -13,7 +13,7 @@ const [newsdata,Setnewsdata]=useState([]);
 const[sizes,Setsizes]=useState("");
     const apidata= async()=>  
     { 
-    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${process.env.REACT_APP_NEWS_API}&page=${page}&PageSize=15`);
+    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${"3bac4428378d4e32af0a4501fc4fb812"}&page=${page}&PageSize=15`);
     const res= await newsdata.json()
       Setnewsdata(res.articles);
       Setsizes(res.totalResults/10);
@@ -30,7 +30,7 @@ useEffect(()=>
  const pagePreHandler=async()=>
  {
   setload(true);
-    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${process.env.REACT_APP_NEWS_API}&page=${page}&PageSize=10`);
+    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${"3bac4428378d4e32af0a4501fc4fb812"}&page=${page}&PageSize=10`);
     const res= await newsdata.json()
   Setnewsdata(res.articles);
   Setpage((page)-1);
@@ -39,7 +39,7 @@ setload(false);
  const pageNextHandler=async()=>
  {  
   setload(true);
-    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${process.env.REACT_APP_NEWS_API}&page=${page}&PageSize=10`);
+    const newsdata= await fetch(`https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${"3bac4428378d4e32af0a4501fc4fb812"}&page=${page}&PageSize=10`);
     const res= await newsdata.json()
   Setnewsdata(res.articles);
   Setpage((page)+1);
