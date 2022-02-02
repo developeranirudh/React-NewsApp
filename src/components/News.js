@@ -3,6 +3,7 @@ import React,{useEffect} from 'react';
 import { useState } from 'react';
 import Newsitem from './Newsitem';
 // import data from './sampledata.json';
+import 'dotenv/config';
 import './News.css';
 import Sipnner from './Sipnner';
 export default function News(props) {
