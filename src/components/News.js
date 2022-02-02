@@ -34,7 +34,6 @@ useEffect(()=>
   Setnewsdata(res.articles);
   Setpage((page)-1);
 setload(false);
-
  }
  const pageNextHandler=async()=>
  {  
@@ -65,8 +64,8 @@ setload(false);
         {load===true ?<Sipnner/>:newsitem}
         </div>
         <div className="pagebtn">
-        <button type="button" disabled={page<=1?true:false} class="btn btn-danger" id="p1" onClick={pagePreHandler}>Previous</button>
-        <button type="button" class="btn btn-danger"disabled={page<sizes?false:true} id="n1"onClick={pageNextHandler}>Next</button>
+        <button type="button" disabled={page<=1?true:false} class="btn btn-dark" id="p1" onClick={pagePreHandler}>Previous</button>
+        <button type="button" class="btn btn-dark"disabled={page<sizes?false:true} id="n1"onClick={pageNextHandler}>Next</button>
    
         </div>
         <br></br>

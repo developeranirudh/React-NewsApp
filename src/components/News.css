@@ -1,19 +1,23 @@
 body{
-    background-color: rgb(255, 75, 111);
+  background-color: rgb(255, 255, 255);
 }
-
+Link{
+    color: aliceblue;
+}
 h1{
     text-align: center;
     font-family: monospace;
     height: 60px;
     margin-top: 20px;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
+}
+.navbar{
+    background-color: rgb(80, 80, 80);
 }
 .shownews{
    display: flex;
    justify-content: space-evenly;
    flex-wrap: wrap;
-   
 }
 .pagebtn{
     margin-top: 40px;
