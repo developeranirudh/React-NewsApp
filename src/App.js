@@ -15,7 +15,7 @@ export default function App() {
      <Router>
      <Navbar/>
          <Switch> 
-           <Route exact path="/">
+           <Route exact path="/React-NewsApp">
            <News key="general" category="general"></News>
           </Route>
           <Route exact path="/business">
